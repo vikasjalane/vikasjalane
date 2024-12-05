@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm vikas jalane</h1>
-<h3 align="center">A cloud learner from India</h3>
+<h3 align="center">passionate DevOps Engineer</h3>
 
 "![image](https://github.com/user-attachments/assets/867521b6-30df-4749-9b79-16f8a1c71bdb)"
 
